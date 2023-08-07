@@ -1,0 +1,15 @@
+D:\документы\Тестовые задания\Getsu\Getsu test task\bin\Debug\net6.0\Getsu test task.exe
+D:\документы\Тестовые задания\Getsu\Getsu test task\bin\Debug\net6.0\Getsu test task.deps.json
+D:\документы\Тестовые задания\Getsu\Getsu test task\bin\Debug\net6.0\Getsu test task.runtimeconfig.json
+D:\документы\Тестовые задания\Getsu\Getsu test task\bin\Debug\net6.0\Getsu test task.dll
+D:\документы\Тестовые задания\Getsu\Getsu test task\bin\Debug\net6.0\Getsu test task.pdb
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\Getsu test task.csproj.AssemblyReference.cache
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\Getsu test task.GeneratedMSBuildEditorConfig.editorconfig
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\Getsu test task.AssemblyInfoInputs.cache
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\Getsu test task.AssemblyInfo.cs
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\Getsu test task.csproj.CoreCompileInputs.cache
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\Getsu test task.dll
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\refint\Getsu test task.dll
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\Getsu test task.pdb
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\Getsu test task.genruntimeconfig.cache
+D:\документы\Тестовые задания\Getsu\Getsu test task\obj\Debug\net6.0\ref\Getsu test task.dll
